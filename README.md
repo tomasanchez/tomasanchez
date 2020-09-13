@@ -9,7 +9,7 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Tomas Sanchez | Web" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][website]
+[<img align="left" alt="Tomas Sanchez | Web" width="22px" src="https://simpleicons.org/icons/github.svg" />][website]
 [<img align="left" alt="Tomas Sanchez | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Tomas Sanchez | Linked In" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
