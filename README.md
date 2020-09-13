@@ -15,6 +15,14 @@
 
 <br />
 
+### Languages:
+
+<img align="left" alt="Anci C" width="22px" src="https://simpleicons.org/icons/c.svg"/>
+<img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="left" alt="Haskell" width="22px" src="https://simpleicons.org/icons/haskell.svg"/>
+<img align="left" alt="HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg"/>
+<img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
+
 <!--
 **tomasanchez/tomasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
