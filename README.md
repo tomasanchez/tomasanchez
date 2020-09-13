@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love Arctic Monkeys.
 
 
-### Contact with me:
+### Connect with me:
 
 [<img align="left" alt="Tomas Sanchez | Web" width="22px" src="https://simpleicons.org/icons/github.svg" />][website]
 [<img align="left" alt="Tomas Sanchez | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]:https://tomasanchez.github.io/
+[website]:https://tomasanchez.github.io/about
 [instagram]:https://www.instagram.com/tomasbsanchez/
 [linkedin]:https://www.instagram.com/tomasbsanchez/
