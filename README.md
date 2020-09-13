@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 [website]:https://tomasanchez.github.io/about
 [instagram]:https://www.instagram.com/tomasbsanchez/
-[linkedin]:https://www.instagram.com/tomasbsanchez/
+[linkedin]:https://www.linkedin.com/in/tbsanchez/
