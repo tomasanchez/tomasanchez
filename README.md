@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a simple parser for syntaxis and semantics of programming languages.
 - 🌱 I’m currently learning everything 😄
-- ⚡ Fun fact: I love Arctic Monkeys.
+- ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Arabella.
 
 
 ### Connect with me:
