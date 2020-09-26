@@ -1,6 +1,6 @@
 # Hello there - I'm [Tomas][website] 👋
 
-## I'm in my senior year of systems engineering
+## I'm in my junior year of systems engineering
 
 - 🔭 I’m currently working on a simple parser for syntaxis and semantics of programming languages.
 - 🌱 I’m currently learning everything 😄
