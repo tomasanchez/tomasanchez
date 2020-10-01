@@ -2,7 +2,7 @@
 
 ## I'm a SAP developer, and an engineer student
 
-- 🔭 I’m currently working on a infix calculator, with parser and scanner imolementation for syntaxis and semantics of programming languages.
+- 🔭 I’m currently working on a infix calculator, with parser and scanner implementation for syntaxis and semantics of programming languages.
 - 🌱 I’m currently learning everything 😄
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Arabella.
 
