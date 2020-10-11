@@ -1,6 +1,6 @@
 # Hello there - I'm [Tomas][website] 👋
 
-## I'm a SAP developer, and an engineer student
+## I'm a Full-Stack web developer, and an engineer student
 
 - 🔭 I’m currently working as a SAP UI5 developer, and as a student I'm working on a C compiler using Flex and Bison.
 - 🌱 I’m currently learning everything 😄
