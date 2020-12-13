@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack web developer, and an engineer student
 
-- 🔭 I’m currently working as a SAP UI5 developer, and as a student I'm working on a C compiler using Flex and Bison.
+- 🔭 I’m currently working as a SAP UI5 developer, and as a student I'm working on improving my Fiori skills
 - 🌱 I’m currently learning everything 😄
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Arabella.
 
