@@ -2,8 +2,8 @@
 
 ## I'm a Full-Stack web developer, and an engineer student
 
-- 🔭 I’m currently working as a SAP UI5 developer, and as a student I'm working on improving my Fiori skills
-- 🌱 I’m currently learning everything 😄
+- 🔭 I’m currently working as a SAP UI5 developer, and as student I'm working on Operating System project
+- 🌱 I’m currently learning React 😄
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Arabella.
 
 
@@ -20,7 +20,6 @@
 <img align="left" alt="Anci C" width="22px" src="https://simpleicons.org/icons/c.svg"/>
 <img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="Haskell" width="22px" src="https://simpleicons.org/icons/haskell.svg"/>
-<img align="left" alt="HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg"/>
 <img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
 
 <!--
