@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a SAP UI5 developer, and as student I'm working on Operating System project
 - 🌱 I’m currently learning React 😄
-- ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Science Fiction.
+- ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Batphone.
 
 
 ### Connect with me:
