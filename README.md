@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack web developer, and an engineer student
 
-- 🔭 I’m currently working as a SAP BTP developer, and as student I'm working on Operating System project
+- 🔭 I’m currently working as a Software Analyst, and as student I'm working on Operating System project
 - 🌱 I’m currently learning Java 😄
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Batphone.
 
