@@ -257,7 +257,26 @@
 
 }
 
-%CV event with three dots
+%CV event with five dots
+\newcommand{\cveventfive}[8]
+{
+
+\begin{tabular*}{1\textwidth}{p{13.6cm}  x{3.9cm}}
+	\textbf{#2} - \textcolor{bgcol}{#3} &   \vspace{2.5pt}\textcolor{sectcol}{#1}
+\end{tabular*}
+
+\vspace{-8pt}
+\textcolor{softcol}{\hrule}
+\vspace{6pt}
+
+  $\cdot$ #4\\[3pt]
+  $\cdot$ #5\\[3pt]
+  $\cdot$ #6\\[3pt]
+  $\cdot$ #7\\[3pt]
+  $\cdot$ #8\\[6pt]
+}
+
+%CV event with seven dots
 \newcommand{\cveventfour}[7]
 {
 
@@ -379,9 +398,9 @@
 %---------------------------------------------------------------------------------------
 %	META SECTION
 %----------------------------------------------------------------------------------------
-\metasection{GBA, Buenos Aires}{\textbf{Estado:} Desarrollador SAP BTP}
+\metasection{GBA, Buenos Aires}{\textbf{Estado:} Talento BP}
 \metasection{\href{https://tomasanchez.github.io}{tomasanchez.github.io}}{\textbf{Campos:} Ingeniería de Software, Consultoría, Scrum, Desarrollo Backend y Frontend}
-\metasection{\href{https://www.linkedin.com/in/tbsanchez/}{linkedin.com/in/tbsanchez}}{\textbf{Tecnologías:} C, C++, Java, JavaScript, React, SAP UI5/Fiori, ABAP, Bootstrap, Bash, Git}
+\metasection{\href{https://www.linkedin.com/in/tbsanchez/}{linkedin.com/in/tbsanchez}}{\textbf{Tecnologías:} C, C++, Java, JavaScript, React, SAP UI5/Fiori, SQL, ABAP, Bootstrap, Bash, Git}
 \metasection{\href{mailto:tosanchez@frba.utn.edu.ar}{tosanchez@frba.utn.edu.ar}}{\textbf{Actividades:} Literatura y Cinematografía, Programación, Fitness}
 \metasection{\href{tel:+5491166107356}{+54 9 11 6610-7356}}{\textbf{Lenguajes:} Español, Inglés (Profesional)}
 \vspace{-2pt}
@@ -410,14 +429,23 @@ con ánimos de crecer en el ámbito profesional. Profesional, emprendedor y resp
 %----------------------------------------------------------------------------------------
 \cvsection{Experiencia}
 
-\cveventfour
-{2020 - presente}
-{Desarollador SAP BTP}
+\cvevent
+{2021 - presente}
+{Talento BP}
+{Banco Patagonia}
+{Programa de Jóvenes Profesionales, seleccionado entre más de tres mil perfiles}
+{Rotación entre distintas áreas del Banco, incluyendo: Arquitectura y PM de TI, Mesa Ágil, Banca Digital, Integraciones, Operaciones de Datos}
+%
+
+\cveventfive
+{2020 - 2021}
+{Consultor UX & SAP BTP}
 {Softtek}
-{Proyecto Gestión de Almacen Digital: Desarrollador Fiori, aplicaciones web full-satck}
-{Proyecto Generación HB4: Desarrollador UI5, front-end}
-{Proyecto Portal de Clientes: Desarrollador Fiori, full-satck}
-{Proyecto Automatizacion de Procesos: Desarrollador iRPA, diseño y programación de robots}
+{Gestión de Almacen Digital: Desarrollador Fiori, aplicaciones web full-satck}
+{Generación HB4: Desarrollador UI5, front-end}
+{Portal de Clientes Externos: Desarrollador Fiori, full-satck}
+{Automatización de Procesos: Desarrollador iRPA, diseño y programación de robots}
+{Portal de Clientes: Desarrollador UI5, front-end}
 %
 
 %---------------------------------------------------------------------------------------
