@@ -32,9 +32,9 @@
 
 </p>
 
-<p>
+<h3 align="left">Stats</h3>
+<p align="left">
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasanchez&show_icons=true&theme=dark&locale=en" alt="Tomas Sanchez's Github Stats" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasanchez&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tomas Sanchez's Top Languages" />
 </p>
 
