@@ -7,20 +7,31 @@
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Batphone.
 
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://tomasanchez.github.io/about" target="_blank">
+        <img align="left" alt="Tomas Sanchez | Web" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/tbsanchez" target="_blank">
+        <img align="left" alt="Tomas Sanchez | Linked In" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+    </a>
+</p>
 
-[<img align="left" alt="Tomas Sanchez | Web" width="22px" src="https://simpleicons.org/icons/github.svg" />][website]
-[<img align="left" alt="Tomas Sanchez | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Tomas Sanchez | Linked In" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+<br></br>
 
-<br />
+<h3 align="left">Languages</h3>
 
-### Languages:
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 
-<img align="left" alt="Anci C" width="22px" src="https://simpleicons.org/icons/c.svg"/>
-<img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="Haskell" width="22px" src="https://simpleicons.org/icons/haskell.svg"/>
-<img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
+</p>
 
 <!--
 **tomasanchez/tomasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
