@@ -20,7 +20,6 @@
 <br></br>
 
 <h3 align="left">Languages</h3>
-
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/>
@@ -31,6 +30,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 
+</p>
+
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasanchez&show_icons=true&theme=dark&locale=en" alt="Tomas Sanchez's Github Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasanchez&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tomas Sanchez's Top Languages" />
 </p>
 
 <!--
