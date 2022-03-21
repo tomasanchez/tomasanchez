@@ -1,9 +1,9 @@
 # Hello there - I'm [Tomas][website] 👋
 
-## I'm a Full-Stack web developer, and an engineer student
+## I'm a Software developer, and an engineer student
 
 - 🔭 I’m currently working as a Software Analyst, and as student I'm working on Operating System project
-- 🌱 I’m currently learning Java 😄
+- 🌱 I’m currently learning Python 😄
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Batphone.
 
 
