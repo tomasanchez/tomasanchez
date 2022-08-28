@@ -2,8 +2,8 @@
 
 ## I'm a Software developer, and an engineer student
 
-- 🔭 I’m currently working as a Software Analyst, and as student I'm working on Operating System project
-- 🌱 I’m currently learning Python 😄
+- 🔭 I’m currently working as a Software Engineer.
+- 🌱 I’m currently learning Kotlin 😄
 - ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Batphone.
 
 
