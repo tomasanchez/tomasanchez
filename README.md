@@ -3,8 +3,8 @@
 ## I'm a Software developer, and an engineer student
 
 - 🔭 I’m currently working as a Software Engineer.
-- 🌱 I’m currently learning Kotlin 😄
-- ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Batphone.
+- 🌱 I’m currently learning Machine Learning 😄
+- ⚡ Fun fact: I love Arctic Monkeys, my favourite song is Big Ideas.
 
 
 <h3 align="left">Connect with me:</h3>
